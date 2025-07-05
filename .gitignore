@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.env
+.idea/
+.vscode/
+*.tgz
+*.pid
+*.seed
+*.pid.lock
